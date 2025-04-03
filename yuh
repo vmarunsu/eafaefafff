@@ -762,7 +762,7 @@ function library:Introduction()
     xsxLogo.ImageColor3 = Color3.fromRGB(159, 115, 255)
     xsxLogo.ImageTransparency = 1
     
-    hashLogo.Name = "XSOP"
+    hashLogo.Name = "XSOP Paid"
     hashLogo.Parent = background
     hashLogo.AnchorPoint = Vector2.new(0.5, 0.5)
     hashLogo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -780,7 +780,7 @@ function library:Introduction()
     xsx.BackgroundTransparency = 1.000
     xsx.Size = UDim2.new(0, 80, 0, 21)
     xsx.Font = Enum.Font.Code
-    xsx.Text = "XSOP"
+    xsx.Text = "XSOP Paid"
     xsx.TextColor3 = Color3.fromRGB(124, 124, 124)
     xsx.TextSize = 10.000
     xsx.TextTransparency = 1
