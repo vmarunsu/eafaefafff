@@ -80,9 +80,9 @@ end
 
 local library = {
     version = "1.0",
-    title = title or "XSOP Paid" .. tostring(math.random(1,366)),
-    FPS = 0,
-    Rank = "Paid"
+    title = title or "XSOP" .. tostring(math.random(1,366)),
+    fps = 0,
+    rank = "Paid"
 }
 
 coroutine.wrap(function()
